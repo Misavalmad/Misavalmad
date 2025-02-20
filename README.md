@@ -21,14 +21,14 @@ Currently, I am learning **C++ and Blueprints in Unreal Engine 5** to create mor
 
 ### **Programming Languages & Frameworks**  
 - **Python**  
-- 💾 **SQL & MySQL**  
-- ⚛️ **React.js**  
-- 🎮 **Unreal Engine 5 (Blueprints & C++)**  
+- **SQL & MySQL**  
+- **React.js**  
+- **Unreal Engine 5 (Blueprints & C++)**  
 
 ### **Tools & Platforms**  
-- 🛠**Git & GitHub**  
-- ☁**Vercel**  
-- 🖥**PC Assembly & Maintenance**  
+- **Git & GitHub**  
+- **Vercel**  
+- **PC Assembly & Maintenance**  
 
 ---
 

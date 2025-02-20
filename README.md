@@ -1,8 +1,8 @@
 # Misael Valencia Madrigal  
 
-👨‍💻 **Computer Technology Engineering Student**  
-🎮 **Passionate about Software and Game Development**  
-🚀 **Currently learning C++ and Unreal Engine 5**  
+**Computer Technology Engineering Student**  
+**Passionate about Software and Game Development**  
+**Currently learning C++ and Unreal Engine 5**  
 
 _"Don't stop me now."_ 
 
@@ -20,31 +20,31 @@ Currently, I am learning **C++ and Blueprints in Unreal Engine 5** to create mor
 ## Technologies & Skills  
 
 ### **Programming Languages & Frameworks**  
-- 🐍 **Python**  
+- **Python**  
 - 💾 **SQL & MySQL**  
 - ⚛️ **React.js**  
 - 🎮 **Unreal Engine 5 (Blueprints & C++)**  
 
 ### **Tools & Platforms**  
-- 🛠️ **Git & GitHub**  
-- ☁️ **Vercel**  
-- 🖥️ **PC Assembly & Maintenance**  
+- 🛠**Git & GitHub**  
+- ☁**Vercel**  
+- 🖥**PC Assembly & Maintenance**  
 
 ---
 
 ## Projects  
 
-### [🌐 Portfolio Website](https://misaelvalencia.vercel.app)  
+### [ Portfolio Website](https://misaelvalencia.vercel.app)  
 Built with **Next.js and Tailwind CSS**, showcasing my skills, projects, and professional contact information.  
 
-### 🎮 **Coming Soon: Unreal Engine 5 Game**  
+###  **Coming Soon: Unreal Engine 5 Game**  
 Currently in development, this project will be based on **Blueprints and C++**, enhancing my expertise in interactive mechanics and 3D optimization.  
 
 ---
 
-## 📬 Contact  
+##  Contact  
 
-📧 **Email:** [misavalmad@gmail.com](mailto:misavalmad@gmail.com)  
-💼 **LinkedIn:** [Misael Valencia Madrigal](https://www.linkedin.com/in/misael-valencia-madrigal-444168248/)  
+ **Email:** [misavalmad@gmail.com](mailto:misavalmad@gmail.com)  
+ **LinkedIn:** [Misael Valencia Madrigal](https://www.linkedin.com/in/misael-valencia-madrigal-444168248/)  
 
 ---

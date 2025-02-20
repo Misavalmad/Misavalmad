@@ -1,7 +1,7 @@
 # Misael Valencia Madrigal  
 
 **Computer Technology Engineering Student**  
-**Passionate about Software and Game Development**  
+**Aspiring Software and Game Developer**  
 **Currently learning C++ and Unreal Engine 5**  
 
 _"Don't stop me now."_ 
